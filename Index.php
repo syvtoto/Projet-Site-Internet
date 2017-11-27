@@ -17,10 +17,10 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
 <body class="container-fluid">
 <header>
     <div class="row">
-        <div class="col-xs-offset-1 col-xs-6">
-            <img src="./images/bandeau1.jpg" class="img-responsive center-block">
+        <div class="col-xs-offset-1 col-xs-4">
+            <img src="./images/bandeau.jpg" class="img-responsive center-block">
         </div>
-        <div class="col-xs-4">
+        <div class="col-xs-4 col-xs-offset-2">
             <div class="row">
                 <div class="col-xs-7">
                     <!--            bloc authentifcation-->
@@ -40,6 +40,7 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
         <div class="row">
             <div class="col-xs-3">
                 <img src="./images/iconeGG.jpg" class="img-responsive center-block">
+
             </div>
             <div class="col-xs-9">
 
