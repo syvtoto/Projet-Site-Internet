@@ -23,8 +23,11 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
 <body class="container-fluid">
 <header>
     <div class="row">
-        <div class="col-xs-offset-1 col-xs-10">
+        <div class="col-xs-offset-1 col-xs-5">
             <img src="./images/bandeau1.jpg" class="img-responsive center-block">
+        </div>
+        <div class="col-xs-5">
+            // bloc authentifcation
         </div>
     </div>
     <nav>
