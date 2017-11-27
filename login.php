@@ -8,7 +8,10 @@
 <?php
 session_start();
 if (isset ($_SESSION['admin'])):
-    echo "Vous êtes déjà connecté";
+    session_destroy();
+    header('location:index.php');
+    /*header('location :Index.php');
+    echo "Vous êtes déjà connecté";*/
 else :
     if (isset($_GET['error'])){
         switch ($_GET['error']) {
