@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 
-/* choses a faire
-*
+<!-- choses a faire
+
 informations : voir https://www.facebook.com/events/189882631576619/?active_tab=discussion
 - date a inventer (17-18 originelement)
 - 19:00 - 06:00
 - ECE Paris Ecole d'Ingenieur, Immeuble Pollux 37 Quai de grenelle 71520,75015 Paris
-*
-*/
+-->
 
 <html lang="fr,en">
 <head>
