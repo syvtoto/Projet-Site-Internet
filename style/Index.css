@@ -13,3 +13,7 @@ border: 2px solid #000f65;
 .avatar{
     width: 100%;
 }
+
+.center{
+    text-align: center;
+}

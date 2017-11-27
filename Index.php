@@ -34,13 +34,22 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
 </header>
 <main>
     <h1>Bienvenue</h1>
-    <?php if (isset ($_SESSION['admin'])){ echo " <p> Admin = true </p>";} ?>
+    <?php if (isset ($_SESSION['admin'])) {
+        echo " <p> Admin = true </p>";
+    } ?>
     <a href="login.php">Se connecter</a>
     <div class="container">
         <div class="row">
             <div class="col-xs-3">
                 <img src="./images/iconeGG.jpg" class="img-responsive center-block">
-
+                <div class="center">
+                    <p>20 - 21 Janvier 2018</p>
+                    <p>19:00 - 06:00</p>
+                    <p>ECE Paris</p>
+                    <p>Immeuble Pollux</p>
+                    <p>37 Quai de Grenelle</p>
+                    <p>75015 Paris</p>
+                </div>
             </div>
             <div class="col-xs-9">
 
