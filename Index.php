@@ -12,21 +12,25 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
 <head>
     <?php require 'includes/header.html'; ?>
     <link rel="stylesheet" href="./style/Index.css" media="screen,projection" type="text/css">
-    <title>Site Internet Evenementiel</title>
+    <title>Deuxième Soirée Jeux</title>
 </head>
 <body class="container-fluid">
 <header>
     <div class="row">
-        <div class="col-xs-offset-1 col-xs-5">
+        <div class="col-xs-offset-1 col-xs-6">
             <img src="./images/bandeau1.jpg" class="img-responsive center-block">
         </div>
-        <div class="col-xs-5">
-            // bloc authentifcation
+        <div class="col-xs-4">
+            <div class="row">
+                <div class="col-xs-7">
+                    <!--            bloc authentifcation-->
+                </div>
+                <div class="col-xs-5">
+                    <img src="./images/avatar.png" class="img-responsive center-block avatar">
+                </div>
+            </div>
         </div>
     </div>
-    <nav>
-    </nav>
-
 </header>
 <main>
     <h1>Bienvenue</h1>
