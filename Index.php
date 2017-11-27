@@ -34,8 +34,14 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
 </header>
 <main>
     <h1>Bienvenue</h1>
-    <?php if (isset ($_SESSION['admin'])){ echo " <p> Admin = true </p>";} ?>
-    <a href="login.php">Se connecter</a>
+    <?php
+    if (isset($_SESSION['admin'])) {
+    echo "<a href=\"logout.php\">Se déconnecter</a> ";
+    } else {
+    echo "<a href=\"login.php\">Se connecter</a> ";
+    }
+    ?>
+    <a href="form.php">S'inscrire</a>
     <div class="container">
         <div class="row">
             <div class="col-xs-3">
