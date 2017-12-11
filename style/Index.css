@@ -17,3 +17,15 @@ border: 2px solid #000f65;
 .center{
     text-align: center;
 }
+
+p{
+    font-family: 'Vollkorn SC', serif;
+}
+
+.img{
+    padding-bottom: 1%;
+}
+
+.top{
+    padding-top: 1%;
+}

@@ -36,8 +36,8 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
 <main>
     <div class="container">
         <div class="row">
-            <div class="col-xs-3">
-                <img src="./images/iconeGG.jpg" class="img-responsive center-block">
+            <div class="col-xs-3 top">
+                <img src="./images/iconeGG.jpg" class="img-responsive center-block img">
                 <div class="center">
                     <p>20 - 21 Janvier 2018</p>
                     <p>19:00 - 06:00</p>
@@ -49,14 +49,67 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
             </div>
             <div class="col-xs-9">
                 <div class="row">
+                    <div class="col-xs-12 center top">
+                        <p>De nombreux jeux seront mis a disposition tels que :</p>
+                        <p>- des jeux de sociétés</p>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-xs-12">
-                        <p class="center">Jeux de sociétés</p>
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <img src="images/Plateau/summonerWar.jpg" class="img-responsive center-block img">
+                            </div>
+                            <div class="col-xs-6">
+                                <img src="images/Plateau/dominion.jpg" class="img-responsive center-block img">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <img src="images/Plateau/mysterirum.jpg" class="img-responsive center-block img">
+                            </div>
+                            <div class="col-xs-6">
+                                <img src="images/Plateau/les-contrees-de-l-horreur.jpg"
+                                     class="img-responsive center-block img">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <img src="images/Plateau/horreur-a-arkham.jpg" class="img-responsive center-block img">
+                            </div>
+                            <div class="col-xs-6">
+                                <img src="images/Plateau/Captain_Sonar.jpg" class="img-responsive center-block img">
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-xs-6">
-                        <img src="images/dominion.jpg" class="img-responsive center-block">
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 center top">
+                        <p>- des jeux de cartes</p>
                     </div>
-                    <div class="col-xs-6">
-                        <img src="images/summonerWar.jpg" class="img-responsive center-block">
+                </div>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <img src="images/Cartes/smashUp.jpg" class="img-responsive center-block img">
+                            </div>
+                            <div class="col-xs-6">
+                                <img src="images/Cartes/JungleSpeed.jpg" class="img-responsive center-block img">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <img src="images/Cartes/munchkin.jpg" class="img-responsive center-block img">
+                            </div>
+                            <div class="col-xs-6">
+                                <img src="images/Cartes/magic-the-gathering.jpg"
+                                     class="img-responsive center-block img">
+                            </div>
+                            <div class="col-xs-6">
+                                <img src="images/Cartes/TAROT.jpg" class="img-responsive center-block img">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
