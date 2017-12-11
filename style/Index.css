@@ -18,7 +18,7 @@ border: 2px solid #000f65;
     text-align: center;
 }
 
-p{
+body,head{
     font-family: 'Vollkorn SC', serif;
 }
 
@@ -28,4 +28,12 @@ p{
 
 .top{
     padding-top: 1%;
+}
+
+body{
+    background-color: #d9aa70;
+}
+
+.MainC{
+    background-color: #d3d7dd;
 }

@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="TP_PHP_5.12" />
     <orderEntry type="module" module-name="sf" />
+    <orderEntry type="module" module-name="ProjetCVBachelor" />
   </component>
 </module>
