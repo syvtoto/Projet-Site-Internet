@@ -112,8 +112,22 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-xs-12 center top">
+                        <p>- des jeux de rôles</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <img src="images/JDR/d&d.jpg" class="img-responsive center-block img">
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="images/JDR/JDRCthulhu.jpg" class="img-responsive center-block img">
+                    </div>
+                </div>
             </div>
         </div>
+    </div>
     </div>
 </main>
 <aside>
