@@ -23,7 +23,8 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
         <div class="col-xs-4 col-xs-offset-2">
             <div class="row">
                 <div class="col-xs-7">
-                    <!--            bloc authentifcation-->
+                    <h5>Bienvenue</h5>
+                    <a href="form.php">S'inscrire</a>
                 </div>
                 <div class="col-xs-5">
                     <img src="./images/avatar.png" class="img-responsive center-block avatar">
@@ -33,9 +34,6 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
     </div>
 </header>
 <main>
-    <h1>Bienvenue</h1>
-
-    <a href="form.php">S'inscrire</a>
     <div class="container">
         <div class="row">
             <div class="col-xs-3">
@@ -50,7 +48,17 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
                 </div>
             </div>
             <div class="col-xs-9">
-
+                <div class="row">
+                    <div class="col-xs-12">
+                        <p class="center">Jeux de sociétés</p>
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="images/dominion.jpg" class="img-responsive center-block">
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="images/summonerWar.jpg" class="img-responsive center-block">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
