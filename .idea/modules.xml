@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Projet-Site-Internet.iml" filepath="$PROJECT_DIR$/.idea/Projet-Site-Internet.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/TP_PHP_5.12/.idea/TP_PHP_5.12.iml" filepath="$USER_HOME$/PhpstormProjects/TP_PHP_5.12/.idea/TP_PHP_5.12.iml" />
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/sf/.idea/sf.iml" filepath="$USER_HOME$/PhpstormProjects/sf/.idea/sf.iml" />
     </modules>
   </component>
 </project>
