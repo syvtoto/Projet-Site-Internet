@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/AndroidConBDD/.idea/AndroidConBDD.iml" filepath="$USER_HOME$/PhpstormProjects/AndroidConBDD/.idea/AndroidConBDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Projet-Site-Internet.iml" filepath="$PROJECT_DIR$/.idea/Projet-Site-Internet.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ProjetCVBachelor/.idea/ProjetCVBachelor.iml" filepath="$PROJECT_DIR$/../ProjetCVBachelor/.idea/ProjetCVBachelor.iml" />
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/TPFormBase/.idea/ProjetFormulaire.iml" filepath="$USER_HOME$/PhpstormProjects/TPFormBase/.idea/ProjetFormulaire.iml" />
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/SiteStatiquePIT/.idea/SiteStatiquePIT.iml" filepath="$USER_HOME$/PhpstormProjects/SiteStatiquePIT/.idea/SiteStatiquePIT.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/TP_PHP_5.12/.idea/TP_PHP_5.12.iml" filepath="$USER_HOME$/PhpstormProjects/TP_PHP_5.12/.idea/TP_PHP_5.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../auction/.idea/auction.iml" filepath="$PROJECT_DIR$/../../auction/.idea/auction.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/sf/.idea/sf.iml" filepath="$USER_HOME$/PhpstormProjects/sf/.idea/sf.iml" />
+      <module fileurl="file://$USER_HOME$/PhpstormProjects/tp_serveur/.idea/tp_serveur.iml" filepath="$USER_HOME$/PhpstormProjects/tp_serveur/.idea/tp_serveur.iml" />
     </modules>
   </component>
 </project>
