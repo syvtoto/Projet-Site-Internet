@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr,en">
 <head>
-    <?php require 'includes/header.html'; ?>
+    <?php require 'includes/head.html'; ?>
     <link rel="stylesheet" href="./style/Index.css" media="screen,projection" type="text/css">
     <title>Admin Page</title>
 </head>

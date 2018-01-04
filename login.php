@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php require 'includes/header.html'; ?>
+    <?php require 'includes/head.html'; ?>
     <title>Connexion</title>
 </head>
 <body>

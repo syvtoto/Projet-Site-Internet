@@ -5,5 +5,12 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="TP_PHP_5.12" />
+    <orderEntry type="module" module-name="sf" />
+    <orderEntry type="module" module-name="ProjetCVBachelor" />
+    <orderEntry type="module" module-name="AndroidConBDD" />
+    <orderEntry type="module" module-name="ProjetFormulaire" />
+    <orderEntry type="module" module-name="tp_serveur" />
+    <orderEntry type="module" module-name="auction" />
+    <orderEntry type="module" module-name="SiteStatiquePIT" />
   </component>
 </module>
