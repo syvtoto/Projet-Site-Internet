@@ -1,5 +1,6 @@
 body,head{
     font-family: 'Vollkorn SC', serif;
+    color: #090908;
 }
 
 .img{
@@ -11,13 +12,29 @@ body,head{
 }
 
 body{
-    background-color: #d9aa70;
+    background-image: url(".././images/tableau.jpg");
+    background-size: 100%;
 }
 
 .MainC{
-    background-color: #d3d7dd;
+    background-image: url(".././images/fond.jpg");
+    background-size: 100%;
 }
 
 .left{
     padding-left: 1%;
+}
+
+.center{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: cornflowerblue;
 }
