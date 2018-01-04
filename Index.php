@@ -25,7 +25,7 @@ informations : voir https://www.facebook.com/events/189882631576619/?active_tab=
         <div class="row">
             <div class="col-xs-3 top">
                 <img src="./images/iconeGG.jpg" class="img-responsive center-block img">
-                <div class="center">
+                <div class="center top">
                     <p>20 - 21 Janvier 2018</p>
                     <p>19:00 - 06:00</p>
                     <p>ECE Paris</p>
