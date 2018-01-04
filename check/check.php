@@ -1,7 +1,7 @@
 <?php
 
 try {
-    require 'includes/pdo.php';
+    require '../includes/pdo.php';
 
     //grain de sel de complexification de hashage
     $salt = "ece";
@@ -24,7 +24,7 @@ try {
 
             $_SESSION['login'] = $_POST['login'];
 
-            header('location:admin.php');
+            header('location:../admin.php');
             exit;
         }
 

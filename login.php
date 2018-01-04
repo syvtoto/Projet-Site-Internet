@@ -33,7 +33,7 @@ else :
     }
     ?>
     <h1>Connexion</h1>
-    <form method="post" action="check.php" enctype="multipart/form-data">
+    <form method="post" action="check/check.php" enctype="multipart/form-data">
         <label for="login">Renseigner votre login :</label><br>
         <input id="login" name="login" type="text" placeholder="Login" required="true"
                value="<?php if (isset ($_GET['login'])){ echo  $_GET['login']; } ?>"></br>
