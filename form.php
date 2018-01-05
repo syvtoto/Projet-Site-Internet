@@ -90,11 +90,6 @@
                             de
                             Rôle <img src="./images/miniatures/des-jeu-de-roles.jpg"</label>
                     </div>
-                    <select id="jeux[]">
-                        <option value="jeu de carte">Cartes</option>
-                        <option value="jeu de plateau" selected>Plateau</option>
-                        <option value="jeu de rôle">Jeu de rôle</option>
-                    </select>
                 </div>
                 <div class="row">
                     <div class="col-xs-12 top center">

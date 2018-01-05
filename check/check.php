@@ -26,6 +26,9 @@ try {
 
             header('location:../admin.php');
             exit;
+        } else {
+            $_SESSION['error'] = true;
+            header('location:../login.php');
         }
 
         /*foreach ($results as $user) {

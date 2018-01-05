@@ -14,23 +14,8 @@ if (isset ($_SESSION['admin'])):
 /*header('location :Index.php');
 echo "Vous êtes déjà connecté";*/
 else :
-if (isset($_GET['error'])) {
-    switch ($_GET['error']) {
-        case 'cahmpVide':
-            $error = "Veuillez renseigner les champs";
-            break;
-        case 'falsePw' :
-            $error = "Mauvais Mot de Passe";
-            break;
-        case 'falseLog' :
-            $error = "Mauvaise Adresse Mail";
-            break;
-        default :
-            $error = "Mauvais identifiants";
-            break;
-    }
-    echo "Erreur : " . $error;
-
+if (isset($_SESSION['error'])) {
+    echo "Mauvais identifiants";
 }
 ?>
 <div class="container">
