@@ -92,8 +92,8 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-12 top center">
-                        <button type="submit">S'inscrire</button>
+                    <div class="col-xs-12 top center img">
+                        <button type="submit">S'enrôler</button>
                     </div>
                 </div>
             </div>
