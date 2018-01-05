@@ -17,11 +17,8 @@ try {
         $user = $prep->fetch();
 
         if ($user) {
-            $_SESSION['actif']= true;
-            if ($_POST['login'] == "Admin"){
-                $_SESSION['admin'] = true;
-            }
-
+            $_SESSION['admin']= true;
+            
             $_SESSION['login'] = $_POST['login'];
 
             header('location:../admin.php');
