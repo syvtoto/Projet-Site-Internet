@@ -18,7 +18,7 @@ try {
 
         if ($user) {
             $_SESSION['admin']= true;
-            
+
             $_SESSION['login'] = $_POST['login'];
 
             header('location:../admin.php');
