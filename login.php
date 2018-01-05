@@ -14,9 +14,6 @@ if (isset ($_SESSION['admin'])):
 /*header('location :Index.php');
 echo "Vous êtes déjà connecté";*/
 else :
-if (isset($_SESSION['error'])) {
-    echo "Mauvais identifiants";
-}
 ?>
 <div class="container">
     <div class="row">
@@ -25,6 +22,11 @@ if (isset($_SESSION['error'])) {
                 <div class="col img top">
                     <h1>Connexion</h1>
                     <form method="post" action="check/check.php" enctype="multipart/form-data">
+                </div>
+                <div class="col img top">
+                    <?php if (isset($_SESSION['error'])) {
+                        echo "Mauvais identifiants";
+                    }?>
                 </div>
                 <div class="col img top">
                     <label for="login">Nom :</label>
