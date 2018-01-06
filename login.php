@@ -21,7 +21,7 @@ else :
             <div class="row">
                 <div class="col img top">
                     <h1>Connexion</h1>
-                    <form method="post" action="check/check.php" enctype="multipart/form-data">
+                    <form method="post" action="check/checkAdmin.php" enctype="multipart/form-data">
                 </div>
                 <div class="col img top">
                     <?php if (isset($_SESSION['error'])) {

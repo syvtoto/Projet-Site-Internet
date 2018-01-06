@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <?php require 'includes/head.html'; ?>
-    <title>Inscription</title>
+    <title>Recrutement</title>
 </head>
 <body>
 <?php require 'includes/header.html'; ?>
@@ -65,13 +65,13 @@
                                    echo $_SESSION['email'];
                                } ?>">
                     </div>
-                    <div class="col-xs-offset-3  col-xs-2 top left">
+                    <div class="col-xs-offset-3  col-xs-3 top left">
                         <h5>Êtes-vous membre ?</h5>
                     </div>
-                    <div class="col-xs-1 top left">
+                    <div class="col-xs-2 top left">
                         <input type="radio" id="Oui" name="membre" value="1"> <label for="Oui">Oui</label>
                     </div>
-                    <div class="col-xs-1 top left">
+                    <div class="col-xs-2 top left">
                         <input type="radio" id="Non" name="membre" value="0"> <label for="Non">Non</label>
                     </div>
                     <div class="col-xs-offset-3 col-xs-6 left center">
