@@ -138,6 +138,7 @@
                         <p>37 quai de Grenelle, Immeuble Pollux.</p>
                     </div>
                     <div class="col-xs-12 img">
+                        <p>Mais n'oublie pas,</p>
                         <img src="./images/iYU.png">
                     </div>
                 </div>
