@@ -58,7 +58,7 @@
                     <?php
                     foreach ($inscrits as $inscrit) {
                         if ($inscrit['valide'] == 0) {
-                            echo "</br>la liste des participants refusés : </br>" . "<p>" . $inscrit['civilite'] . " " . $inscrit['nom'] . " " . $inscrit['prenom'] . " "
+                            echo "<p>" . $inscrit['civilite'] . " " . $inscrit['nom'] . " " . $inscrit['prenom'] . " "
                                 . $inscrit['adresse'] . " " . $inscrit['cp'] . " " . $inscrit['ville'] . " " . $inscrit['dateNaissance'] . " " . $inscrit['email'] . " "
                                 . $inscrit['membre'] . " " . $inscrit['jeux'] . "</p>";
 

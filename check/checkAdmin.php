@@ -34,7 +34,7 @@ try {
                 if ($_POST['login'] == "Admin"){$_SESSION['admin'] = true;}
                 $_SESSION['login'] = $_POST['login'];
 
-                header('location:index.html.php');
+                header('location:index.php');
                 exit;
             }
         }*/

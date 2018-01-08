@@ -12,6 +12,20 @@
         <div class="row">
             <div class="col-xs-offset-2 col-xs-8 MainC">
                 <div class="row">
+                    <div class="col-xs-12 center">
+                        <h2>Bureaux des Recrutements</h2>
+                    </div>
+                    <div class="col-xs-12 center img">
+                        <?php
+                        if(isset($_SESSION['inscrit'])) {
+                            if($_SESSION = true) {
+                                echo "Votre engagement a été pris en compte et sera mis à l'épreuve";
+                                $_SESSION = false;
+                            }
+
+                        }
+                        ?>
+                    </div>
                     <div class="col-xs-offset-3  col top left">
                         <input type="radio" id="M" name="civ" value="M"> <label for="M">M</label>
                         <input type="radio" id="Mme" name="civ" value="Mme"> <label for="Mme">Mme</label>

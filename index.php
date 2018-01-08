@@ -22,7 +22,8 @@
                     <p>Immeuble Pollux</p>
                     <p>37 Quai de Grenelle</p>
                     <p>75015 Paris</p>
-                    <p><a href="https://www.google.fr/maps/dir//37+Quai+de+Grenelle,+75015+Paris/@48.8383532,2.239556,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47e67004a52552e3:0x47d6b1ac0c239d3c!2m2!1d2.2863606!2d48.8518837!3e3" target="_blank">Accès</a> </p>
+                    <p><a href="https://www.google.fr/maps/dir//37+Quai+de+Grenelle,+75015+Paris/@48.8383532,2.239556,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47e67004a52552e3:0x47d6b1ac0c239d3c!2m2!1d2.2863606!2d48.8518837!3e3" target="_blank" class="link">
+                            Accès</a> </p>
                 </div>
                 <div class="row">
                     <div class="col-xs-12 center top">
@@ -100,9 +101,9 @@
                         <h1>Bienvenue Joueur !</h1>
                     </div>
                     <div class="col-xs-12 top">
-                        <p>Que tu soit elfe, nain, gnome, ou encore gobelin,</p>
+                        <p>Que tu sois elfe, nain, gnome, ou encore gobelin,</p>
                         <p>paladin, magicien, barde, ou bien assassin,</p>
-                        <p>nous te convions a notre deuxième soirée jeux.</p>
+                        <p>nous te convions à notre deuxième soirée jeux.</p>
                         <p>PS : Les sang-mêlé et super Munchkin seront tolérés</p>
                         <p>mais pas de bagarre autorisée.</p>
                     </div>
@@ -115,7 +116,7 @@
                         <p>Le plus important étant que</p>
                     </div>
                     <div class="col-xs-6 top">
-                        <p>Si tu est interesser par des jeux de rôles pas de souci !</p>
+                        <p>Si tu es interesser par des jeux de rôles pas de souci !</p>
                         <p>Nos MJ trouverons de quoi ravire ton âme de rôliste.</p>
                         <p>Jeter des boules des feu ou encore trancher des</p>
                         <p>crânes a grand coup de haches, tel sont </p>
@@ -126,9 +127,9 @@
                         <p>tu pourra te divertir et profiter de ta soirée.</p>
                     </div>
                     <div class="col-xs-12 top">
-                        <p>Débutant ou habitué,</p>
+                        <p>Débutant(e) ou habitué(e),</p>
                         <p>Si tu est intéressé, rejoint nous en passant par la</p>
-                        <p>salle de recrutement, <a href="form.php">ici</a></p>
+                        <p>salle de recrutement, <a class="link" href="form.php">ici</a></p>
                         <p>Tu y remplira des informations qui nous permettrons</p>
                         <p>de te tenir au courant des prochains évènements.</p>
                     </div>

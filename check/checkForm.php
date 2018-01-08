@@ -6,6 +6,7 @@ session_start();
 try {
     if (isset ($_POST)) {
 
+        $civ = $_POST['civ'];
         $nom = $_POST['nom'];
         $prenom = $_POST['prenom'];
         $adresse = $_POST['adresse'];
@@ -21,22 +22,14 @@ try {
             $jeux = $jeux . " " . $jeu;
         }
 
-        $_SESSION['nom'] = $nom;
-        $_SESSION['prenom'] = $prenom;
-        $_SESSION['adresse'] = $adresse;
-        $_SESSION['cp'] = $cp;
-        $_SESSION['ville'] = $ville;
-        $_SESSION['dateNaissance'] = $dateNaissance;
-        $_SESSION['email'] = $email;
-
         $sql = "INSERT INTO inscriptions (civilite, nom, prenom, adresse, cp, ville, dateNaissance, email, membre, jeux, valide) 
                 VALUES ('$civ', '$nom', '$prenom', '$adresse', '$cp', '$ville', '$dateNaissance', '$email', '$membre', '$jeux', '$valide')";
 
         $prep = $pdo->prepare($sql);
         $prep->execute();
 
-        var_dump($prep);
-        header('location: ../admin.php');
+        $_SESSION['inscrit'] = true;
+        header('location:../form.php');
     }
 } catch (PDOException $e) {
     echo $e;
