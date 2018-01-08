@@ -10,7 +10,7 @@
       <module fileurl="file://$USER_HOME$/PhpstormProjects/TP_PHP_5.12/.idea/TP_PHP_5.12.iml" filepath="$USER_HOME$/PhpstormProjects/TP_PHP_5.12/.idea/TP_PHP_5.12.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../auction/.idea/auction.iml" filepath="$PROJECT_DIR$/../../auction/.idea/auction.iml" />
       <module fileurl="file://$USER_HOME$/PhpstormProjects/sf/.idea/sf.iml" filepath="$USER_HOME$/PhpstormProjects/sf/.idea/sf.iml" />
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/tp_serveur/.idea/tp_serveur.iml" filepath="$USER_HOME$/PhpstormProjects/tp_serveur/.idea/tp_serveur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../webService/.idea/tp_serveur.iml" filepath="$PROJECT_DIR$/../../webService/.idea/tp_serveur.iml" />
     </modules>
   </component>
 </project>

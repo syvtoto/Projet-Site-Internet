@@ -12,5 +12,6 @@
     <orderEntry type="module" module-name="tp_serveur" />
     <orderEntry type="module" module-name="auction" />
     <orderEntry type="module" module-name="SiteStatiquePIT" />
+    <orderEntry type="module" module-name="tp_serveur" />
   </component>
 </module>
