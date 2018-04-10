@@ -10,8 +10,8 @@ require 'includes/header.html';
 session_start();
 if (isset ($_SESSION['admin'])):
     session_destroy();
-    header('location:index.php');
-/*header('location :index.php');
+    header('location:index.html');
+/*header('location :index.html');
 echo "Vous êtes déjà connecté";*/
 else :
 ?>
