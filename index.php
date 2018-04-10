@@ -99,6 +99,7 @@
                 <div class="row center">
                     <div class="col-xs-12 top">
                         <h1>Bienvenue Joueur !</h1>
+                        <h2>Fork ok</h2>
                     </div>
                     <div class="col-xs-12 top">
                         <p>Que tu sois elfe, nain, gnome, ou encore gobelin,</p>
