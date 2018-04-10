@@ -29,7 +29,7 @@ try {
         $prep->execute();
 
         $_SESSION['inscrit'] = true;
-        header('location:../form.php');
+        header('location:../form.html');
     }
 } catch (PDOException $e) {
     echo $e;
